@@ -1,7 +1,11 @@
 body {
+
 background-color: lightblue;
 }
-p{text-decoration: underline;}
+p{text-decoration: underline;
+margin-right: 500px;
+}
 
-h1{color:black;}
+h1{color:black;
+border-style: dotted;}
 li{font-size: 70px;}
