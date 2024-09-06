@@ -2,12 +2,14 @@ body {
 
 background-color: lightblue;
 }
+
 p{text-decoration: underline;
 margin-right: 500px;
 }
 
 h1{color:black;
 border-style: dotted; border-width: 10px; border-color: Purple;}
+
 li{font-size: 40px; text-transform: uppercase;}
 #High{height: 50px; text-align: center; box-shadow: 10px 10px; background: grey;}
 
